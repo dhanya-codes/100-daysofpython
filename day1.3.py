@@ -1,6 +1,6 @@
 a=10
-if(a==10)
+if(a==10):
   print("The value of a is 10")
-else
+else:
   print("The value of a is not 10")
 print("I know this is a stupid code")  
