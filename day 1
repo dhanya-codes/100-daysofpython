@@ -1,1 +1,3 @@
-
+print("Hello python This is me whos ready to grab you")
+string="Dhanya"
+print(string,"is beautiful")
