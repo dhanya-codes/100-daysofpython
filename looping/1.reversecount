@@ -1,0 +1,5 @@
+count=5
+print("countdown goes",count)
+while(count>1):
+    count-=1
+    print("countdown goes",count)
